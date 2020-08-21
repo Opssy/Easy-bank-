@@ -44,9 +44,9 @@ body{
     padding-bottom: 6px;
     padding-left: 16px;
     padding-right: 16px;
-    background: hsl(159deg 61% 48%);; 
+    background: hsl(3deg 61% 48%); 
     color: white;
-    border: hsl(159deg 61% 48%);
+    border: hsl(3deg 61% 48%);
 }
 
 /*.main-content{
@@ -91,9 +91,9 @@ button.invitation {
     left: 152px;
     padding: 5px 10px;
     border-radius: 4px;
-    background: #32d06b;
+    background: hsl(3deg 61% 48%);
     color: white;
-    border: 1px solid #32d06b;
+    border: 1px solid hsl(3deg 61% 48%);
     font-size: 18px;
 }
 .container-list{
